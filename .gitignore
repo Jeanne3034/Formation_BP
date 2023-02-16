@@ -1,4 +1,5 @@
 individu_reg.*
+secrets.yaml
 
 # History files
 .Rhistory
